@@ -34,7 +34,7 @@ node_modules
 
 #IDE
 .idea
-*/.idea/*
+*.idea*
 
 #Angular / TypeScript
 *.js*
