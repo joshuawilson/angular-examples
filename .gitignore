@@ -31,3 +31,12 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+#IDE
+.idea
+
+#Angular / TypeScript
+*.js*
+
+#Node.js
+node_modules
