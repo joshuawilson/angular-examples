@@ -34,10 +34,12 @@ node_modules
 
 #IDE
 .idea
-
+workspace.xml
 
 #Angular / TypeScript
 *.js
+*.js.map
+typings
 
 #Node.js
 node_modules
